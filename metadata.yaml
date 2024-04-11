@@ -1,0 +1,28 @@
+_repo: The-frantic-master_73273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pulleyne, Douglas, Mrs.
+    alias: Pulleyne, Mrs. Douglas
+    gutenberg_agent_id: '57011'
+    url: http://www.gutenberg.org/2009/agents/57011
+description: ''
+gutenberg_issued: '2024-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73273'
+language: en
+pgterms:marc905: 20240317212444pulleyne
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bChapman and Hall Ld., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The frantic master
+url: http://www.gutenberg.org/ebooks/73273
